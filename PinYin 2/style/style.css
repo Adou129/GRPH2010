@@ -1,0 +1,178 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #000000;
+	background-image: url(../pin.png);
+	background-repeat: no-repeat;
+}
+.top{
+	width: 1000px;
+	height: 50px;
+
+}
+ul,li,a,p{
+	margin: 0;
+	padding: 0;
+}
+.nav{
+	width: 1000px;
+	height: 50px;
+	margin: 0 auto;
+	background:black;
+}
+.nav ul{
+	width: 960px;
+	margin: 0 auto;
+}
+.nav ul li{
+	width: 160px;
+	line-height: 50px;
+	float: left;
+	list-style-type: none;
+}
+.nav ul li a{
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	display:block;
+}
+.nav ul li a:hover{
+	background: deepskyblue;
+}
+.nav1{
+	width: 1000px;
+	height: 50px;
+	margin-top: 200px;
+    margin-left: 500px;
+	text-align: center;
+
+}
+.nav1 ul{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+.nav1 ul li{
+	width: 550px;
+	line-height: 350px;
+	float: inherit;
+	list-style-type: none;
+	text-align : left ;
+}
+.nav1 ul li a{
+	
+	line-height: 255px;
+	text-decoration: none;
+	color: white;
+	display:block;
+	font-size: 80px;
+	font-family: impact;
+}
+.nav1 ul li a:hover{
+	background: black;
+}
+img {
+	box-shadow: 3px 3px #666666;
+}
+.ji1{
+	top:20px;
+	margin: 0 auto;
+	width: 1000px;
+	height:600px;
+}
+.btn1 {
+    width: 200px;
+    height: 70px;
+    background-color: gray;
+    border-radius: 5%;
+    border: none;
+    font-family: 黑体;
+    font-size: 30px;
+}
+.jie1 {
+	margin: 0 auto;
+	width: 1000px;
+	height:500px;
+	
+	
+	text-indent: 2em;
+}
+.ji2{
+	top:0;
+	margin: 0 auto;
+	width: 1000px;
+	height:600px;
+}
+.btn2 {
+    width: 200px;
+    height: 70px;
+    background-color: gray;
+    border-radius: 5%;
+    border: none;
+    font-family: 黑体;
+    font-size: 30px;
+}
+.jie2 {
+	margin: 0 auto;
+	width: 1000px;
+	height:550px;
+	text-indent: 2em;
+	
+}
+.footer{
+	top:-50px;
+	width: 1000px;
+	height: 50px;
+	margin: 0 auto;
+	background: black;
+	text-align: center;
+}
+.footer p{
+	padding-top: 15px;
+}
+.footer1{
+	top:-50px;
+	width: 1000px;
+	height: 50px;
+	margin: 0 auto;
+	background: #D3141B;
+	text-align: center;
+}
+.footer1 p{
+	padding-top: 15px;
+}
+.lan1{
+	width: 1000px;
+	height: 230px;
+	margin: 0 auto;
+}
+.lan1 ul{
+	width: 1000px;
+	margin: 0 auto;
+}
+.lan1 ul li{
+	
+	width: 250px;
+	line-height: 230px;
+	float: left;
+	list-style-type: none;
+}
+.lan1 ul li a{
+	font-weight:bold;
+	font-size:50px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	display:block;
+}
+.lan1 ul li a:hover{
+		
+	background: deepskyblue;
+}
+.ba{
+	text-align: center;
+	margin-top: 20px;
+}
